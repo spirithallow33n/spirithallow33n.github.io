@@ -5,7 +5,8 @@
     </h1>
 </head>
 <body>
-    <img src="IMG_0490.jpg" alt="My photo">
-    <img src="IMG_0508.jpg">
+    <img src="IMG_0490.jpg" >
+    <p>the only way out is in</p>
+    <img src="IMG_0508.jpeg">
 </body>
 </html>
