@@ -6,5 +6,6 @@
 </head>
 <body>
     <img src="IMG_0490.jpg" alt="My photo">
+    <img src="IMG_0508.jpg">
 </body>
 </html>
